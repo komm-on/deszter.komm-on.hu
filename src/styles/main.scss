@@ -38,3 +38,9 @@ blockquote::before {
   font-style: italic;
   font-size: 30px;
 }
+
+// Active link in navigation bar
+
+.nav-link.active {
+  @extend .border-bottom, .border-4, .border-primary;
+}
