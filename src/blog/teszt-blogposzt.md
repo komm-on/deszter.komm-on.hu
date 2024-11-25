@@ -5,7 +5,7 @@ date: 2024-11-22
 title: Teszt Blogposzt
 teaser: >
   Ez egy bevezető szöveg egy blogposzthoz.
-cover: /assets/images/rajz-2.png
+cover: /assets/images/placeholder.png
 ---
 
 # Rasztergrafika
