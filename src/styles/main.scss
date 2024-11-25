@@ -1,6 +1,8 @@
 $color-mode-type: media-query;
 $font-family-base: "OpenSans";
-$primary: hsl(0, 50%, 50%);
+// $primary: #c0a080;
+// $primary: rgb(30, 33%, 63%);
+$primary: hsl(30, 33%, 63%);
 
 $bootstrap-icons-font-dir: "/assets/fonts";
 @import "pkg:bootstrap-icons/font/bootstrap-icons.scss";
